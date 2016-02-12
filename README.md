@@ -1,6 +1,6 @@
 Simon Stamp Collection App 
 ---
 
-#About 
+#About Simon's Stamps
 
-Stuff about Simon's Stamps here...
+Simon has been collecting stamps since 1981. China stamps. 
